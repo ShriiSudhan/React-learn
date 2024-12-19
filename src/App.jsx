@@ -17,7 +17,6 @@ function App() {
         </a>
       </div>
       <h1>Hi Narain</h1>
-      
     </>
   );
 }
